@@ -2,7 +2,7 @@
 This repository contains 50 Vanilla Javascript Projects
 ## Repository Image
 ![Javascript Image](/hello-world/js-image.jpeg)
-The projects start from Beginner level to Advanced Level
+The projects start from Beginner  level to Advanced Level
 
 ## list of Projects
 1. Hello World Project
